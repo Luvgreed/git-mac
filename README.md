@@ -11,6 +11,7 @@ Small sample to get you started
 
     alias ga='git add'
     alias gc='git commit -v'
+    alias gcmsg='git commit -m'
     alias gd='git diff'
     alias gds='git diff --staged'
     alias gst='git status'
